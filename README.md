@@ -1,4 +1,4 @@
-# PAISES
+# PAISES - Con atributos y métodos
 
 Representa el diagrama de clases UML del siguiente supuesto:
 
